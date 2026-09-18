@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00f5d4&height=220&section=header&text=TYLER%20DURDEN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%22You%20are%20not%20your%20commit%20history.%22&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00f5d4&height=220&section=header&text=TYLER%20DURDEN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=The%20first%20rule%20of%20my%20repo%3A%20always%20read%20the%20README.&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" /> <a href="https://github.com/tylerdurden151"> <img
 
 <a href="https://github.com/tylerdurden151">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E+Building+things+in+Python%2C+Java+%26+C%23;%3E+Simulating+satellites+and+shipping+dashboards;%3E+Full-stack+by+night%2C+debugger+by+necessity;%3E+The+first+rule+of+clean+code%3A+you+write+tests" alt="Typing SVG" />
