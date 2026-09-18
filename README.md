@@ -41,7 +41,8 @@ class Developer:
 ![.NET](https://img.shields.io/badge/.NET-0d0221?style=for-the-badge&logo=dotnet&logoColor=7b2ff7)
 ![Flask](https://img.shields.io/badge/Flask-0d0221?style=for-the-badge&logo=flask&logoColor=00f5d4)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=7b2ff7)
-![JavaFX](https://img.shields.io/badge/JavaFX-0d0221?style=for-the-badge&logo=openjdk&logoColor=00f5d4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=00f5d4)
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=7b2ff7)
 ![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=7b2ff7)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00f5d4)
 
@@ -56,8 +57,8 @@ class Developer:
 | 🛰️ | [**LEOSatellite_Simulator**](https://github.com/tylerdurden151/LEOSatellite_Simulator) | Simulates orbital altitude loss from atmospheric drag on LEO satellites | `Java` |
 | 📊 | [**academic-world-dashboard**](https://github.com/tylerdurden151/academic-world-dashboard) | Web dashboard that pulls from multiple database systems to explore the Academic World dataset | `Python` |
 | 🔐 | [**HNCC_Full_Stack**](https://github.com/tylerdurden151/HNCC_Full_Stack) | Flask website with a working login system | `Python` `HTML` |
-| 🚦 | [**JAVAFX_GUI_Traffic_Sim**](https://github.com/tylerdurden151/JAVAFX_GUI_Traffic_Sim) | Interactive traffic simulation with a JavaFX GUI | `Java` |
-| 🔷 | [**JavaFX_GUI_Shapes**](https://github.com/tylerdurden151/JavaFX_GUI_Shapes) | Shape-drawing GUI experiments | `Java` |
+| 🎬 | [**Video_Link_Vault**](https://github.com/tylerdurden151/Video_Link_Vault) | Full-stack vault for saved video links with user authentication, categories, tags, platform detection and REST API integration | `React` `ASP.NET Core` `JavaScript` |
+| 🧪 | [**MSSA_Mini_Project**](https://github.com/tylerdurden151/MSSA_Mini_Project) | Video Link Vault mini build: ASP.NET Core Web API + React with in-memory mock data and full CRUD for saved TikTok/YouTube/Instagram/Facebook links | `React` `ASP.NET Core` `JavaScript` |
 | 🎓 | [**MSSA**](https://github.com/tylerdurden151/MSSA) | C# / .NET coursework, exercises, notes and projects | `C#` |
 
 ---
@@ -66,12 +67,11 @@ class Developer:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tylerdurden151&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5d4&icon_color=7b2ff7&text_color=ffffff" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdurden151&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f5d4&text_color=ffffff" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=tylerdurden151&theme=radical&hide_border=true&background=0d0221&ring=7b2ff7&fire=00f5d4&currStreakLabel=00f5d4" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tylerdurden151&bg_color=0d0221&color=00f5d4&line=7b2ff7&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/00f5d4/tylerdurden151" alt="Contribution graph" width="90%" />
 
 </div>
 
